@@ -6,6 +6,5 @@ public static void main(String[] args) {
 	System.out.println("Comit2");
 	System.out.println("Comit3");
 	System.out.println("Wrong Commit");
-	System.out.println("New Commit");
 }
 }
